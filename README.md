@@ -1,5 +1,5 @@
 # Movie-recommendation using ML 
 
-update repo
+learning ML recommendation systems uisng collaborative filtering
 
-add tmdb api i guess so
+## data to be taken from any free api providers or Trak TV 
